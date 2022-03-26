@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://kode-syair-sgp.github.io/pon-2/sitemap.xml
